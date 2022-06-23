@@ -23,7 +23,7 @@ obj = {
   "subscriptionPrice": 999999,
   "historyAutoRenewable": true,
   "hasPromoRight": false,
-  "subscriptionDesc": "马化腾VIP",
+  "subscriptionDesc": "注：此VIP为腾讯CEO马化腾赠送，祝您听书愉快",
   "subscriptionButtonLabel": ""
  };
 
